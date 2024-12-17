@@ -7,6 +7,7 @@ Key Metrics Identified:
 - Average Sales: The average revenue per transaction.
 - Number of Items: The count of unique items sold.
 - Average Rating: The customer satisfaction scores for sold items.
+
 Chart Analysis and Visualizations Developed:
 
 - Total Sales by Fat Content: Used Donut Chart to analyze the impact of fat content on total sales and additional KPIs.
